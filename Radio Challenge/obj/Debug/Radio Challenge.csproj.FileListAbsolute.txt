@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\obj\Debug\Radio Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\obj\Debug\Radio Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\bin\Radio Challenge.dll.config
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\bin\Radio Challenge.dll
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\bin\Radio Challenge.pdb
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\obj\Debug\Radio Challenge.dll
+C:\Users\Ethan\Documents\My Code\Radio Challenge\Radio Challenge\obj\Debug\Radio Challenge.pdb
